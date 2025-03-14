@@ -1,6 +1,6 @@
 # AgriDrishti - Advanced Predictive Tools for Farmers and Market Stability
 
-#### Team Name - AgriDrishti Development Team
+#### Team Name - CODE4CHANGE
 #### Project Focus - Predictive Analytics for Agriculture
 
 
