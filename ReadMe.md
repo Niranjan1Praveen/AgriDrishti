@@ -5,7 +5,7 @@
 
 
 ## A Brief Overview of the Platform:
-Interact and explore our predictive tools here - [AgriDrishti Website](https://agridrishti.com/)
+Interact and explore our predictive tools here - [AgriDrishti Website]([https://agridrishti.com/](https://agridrishti.netlify.app/))
 
 AgriDrishti is an advanced data analytics platform designed to assist farmers, traders, and market regulators in making informed decisions about crop production, market trends, and price volatility. Our platform leverages state-of-the-art machine learning models to provide accurate market predictions, ensuring profitability and stability in the agricultural sector.
 
