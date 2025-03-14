@@ -2,7 +2,7 @@
 
 #### Team Name - AgriDrishti Development Team
 #### Project Focus - Predictive Analytics for Agriculture
-#### Contact Email - support@agridrishti.com
+
 
 ## A Brief Overview of the Platform:
 Interact and explore our predictive tools here - [AgriDrishti Website](https://agridrishti.com/)
