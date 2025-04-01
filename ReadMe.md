@@ -58,6 +58,14 @@ Open your web browser and navigate to `http://localhost:3000` to view and intera
 - **Database:** PostgreSQL / MongoDB
 - **Visualization:** Chart.js, D3.js
 
-We continuously enhance our predictive models by integrating the latest advancements in machine learning and data analytics, ensuring a smarter, more resilient agricultural market.
+## Contact & Support
+For support, questions, or feedback, feel free to reach out to any of the contacts below:
 
+**Debshata Choudhury:** debshatachoudhury@gmail.com
+**Abhishek Chaubey:** abhishekchaubey501@gmail.com
+**Vaibhav Jain:** vaibavjain62@gmail.com
+**Niranjan Praveen:** heckerhecker86@gmail.com
+**Pratham Ranjan:** prathamranjan10@gmail.com
+
+We continuously enhance our predictive models by integrating the latest advancements in machine learning and data analytics, ensuring a smarter, more resilient agricultural market.
 Join us in building a stable and profitable future for agriculture! 🌾
